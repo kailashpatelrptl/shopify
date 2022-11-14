@@ -1,0 +1,4 @@
+# This file stores configurations for your Shopify app.
+name = "QR Code Generator"
+scopes = "write_products,read_discounts"
+
